@@ -1,0 +1,11 @@
+[
+    {
+        "filter_name": "select",
+        "filter_values": [
+            ".png",
+            ".jpg",
+            ".svg",
+            ".gif"
+        ]
+    }
+]
