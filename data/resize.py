@@ -3,7 +3,7 @@ from tqdm import tqdm
 from PIL import Image
 import time
 
-max_size = (500, 500)
+max_size = (200, 200)
 
 files = [x for x in os.listdir("originals")]
 
